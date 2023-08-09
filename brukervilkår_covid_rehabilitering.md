@@ -1,4 +1,4 @@
-# Brukervilkår covid rehabilitering
+# Brukervilkår og personvernerklæring for Min Covid Rehabilitering
 
 Det du lagrer i denne appen vil kun lagres på din telefon. Ingen andre vil få tilgang til informasjonen, hverken helsepersonell eller andre. Den fungerer som en digital selvhjelpsbrosjyre hvor du tilpasser innholdet til deg selv.
 
@@ -7,7 +7,7 @@ Denne appen er utviklet av Universitetssykehuset Nord-Norge og Helse-Nord IKT. A
 ----------
 English:
 
-# User Terms for COVID Rehabilitation
+# User Terms and privacy policy for Min Covid Rehabilitering
 
 The information you store in this app will only be saved on your phone. No one else will have access to this information, neither healthcare professionals nor others. It functions as a digital self-help brochure where you customize the content for yourself.
 
